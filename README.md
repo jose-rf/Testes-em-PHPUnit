@@ -40,7 +40,7 @@ A função retorna o valor com desconto de acordo com a categoria do cliente:
 
 ## 🧪 Casos de Teste
 
-Os seguintes testes foram implementados na classe `funcoesTest`:
+Os seguintes testes foram implementados na classe `calcularDescontoTest.php`:
 
 | Entrada                        | Saída Esperada     | Tipo de Teste               |
 |-------------------------------|---------------------|-----------------------------|
@@ -62,7 +62,8 @@ Certifique-se de estar na pasta do projeto e execute:
 composer install
 
 2. Rodar os testes
-vendor\bin\phpunit funcoesTest.php
+vendor\bin\phpunit calcularDescontoTest.php
 
 ✅ Resultado
 OK (5 tests, 5 assertions)
+![image](https://github.com/user-attachments/assets/bdbd030f-cc7f-417b-a4ef-79f1b7beba7b)
