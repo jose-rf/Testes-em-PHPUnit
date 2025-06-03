@@ -2,12 +2,14 @@
 
 ## 📁 Estrutura de Arquivos
 
+```text
 php/
 ├── composer.json
 ├── composer.lock
 ├── funcoes.php
 ├── funcoesTest.php
-└── vendor/ (gerado pelo Composer)
+└── vendor/          (gerado pelo Composer)
+```
 
 
 ---
@@ -66,4 +68,4 @@ vendor\bin\phpunit calcularDescontoTest.php
 
 ✅ Resultado
 OK (5 tests, 5 assertions)
-![image](https://github.com/user-attachments/assets/bdbd030f-cc7f-417b-a4ef-79f1b7beba7b)
+
